@@ -27,6 +27,7 @@ securesocial.signup.thankYouCheckEmail=Dank je wel. Controleer je e-mail voor ve
 securesocial.signup.invalidLink=De gevolgde link is ongeldig
 securesocial.signup.signUpDone=Bedankt voor je inschrijving. Je kunt nu inloggen
 securesocial.signup.invalidPassword=Voer tenminste {0} karakters in
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Wachtwoord opnieuw instellen

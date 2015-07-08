@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Köszönöm. Az utolsó teendő e-mail -b
 securesocial.signup.invalidLink=A megadott hivatkozás érvénytelen
 securesocial.signup.signUpDone=Köszönöm hogy regisztrált. Most már be tud jelentkezni
 securesocial.signup.invalidPassword=Legalább {0} hosszú kell hogy legyen
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Jelszó visszaállítása

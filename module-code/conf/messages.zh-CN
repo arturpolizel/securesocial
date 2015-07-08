@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=谢谢！请到邮箱中查看下一步�
 securesocial.signup.invalidLink=你访问的链接无效
 securesocial.signup.signUpDone=注册成功，欢迎登录
 securesocial.signup.invalidPassword=至少输入 {0} 个字符
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=重置密码

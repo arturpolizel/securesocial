@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Спасибо. Пожалуйста, п�
 securesocial.signup.invalidLink=Ссылка, по котороый Вы перешли, недействительна
 securesocial.signup.signUpDone=Спасибо за регистрацию. Теперь Вы можете войти
 securesocial.signup.invalidPassword=Введите минимум {0} символов
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Сброс пароля

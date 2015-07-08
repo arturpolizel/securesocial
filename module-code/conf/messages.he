@@ -29,6 +29,7 @@ securesocial.signup.thankYouCheckEmail=תודה. אנא תבדוק/י את הד�
 securesocial.signup.invalidLink=קישור זה אינו תקף
 securesocial.signup.signUpDone=תודה על הרשמתך. את/ה יכול/ה להכנס למערכת
 securesocial.signup.invalidPassword=הכניס/י לפחות {0} תוים
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=אפס/י סיסמה

@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Merci. Un e-mail contenant les prochaines
 securesocial.signup.invalidLink=Ce lien est invalide.
 securesocial.signup.signUpDone=Merci pour votre inscription. Vous pouvez désormais vous connecter.
 securesocial.signup.invalidPassword=Votre mot de passe doit contenir au moins {0} caractères.
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Réinitialiser le mot de passe

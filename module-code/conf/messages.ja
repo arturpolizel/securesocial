@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=ありがとうございます。Eメー�
 securesocial.signup.invalidLink=リンクが不正です
 securesocial.signup.signUpDone=ご登録ありがとうございました。ログインの上、サービスをご利用ください。
 securesocial.signup.invalidPassword=最低文字数は {0} 文字です
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=パスワードのリセット

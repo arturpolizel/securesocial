@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Tack. Kolla din e-post för vidare instru
 securesocial.signup.invalidLink=Länken du klickade på är inte giltig
 securesocial.signup.signUpDone=Tack för att du registrerade dig. Du kan nu logga in
 securesocial.signup.invalidPassword=Ange åtminstone {0} tecken
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Återställ lösenord

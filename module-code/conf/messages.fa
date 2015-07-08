@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=متشکریم. لطفاً ایمیل خ�
 securesocial.signup.invalidLink=لینکی که دنبالش بودید اشتباه است
 securesocial.signup.signUpDone=با تشکر از اینکه ثبت‌نام کردید، حالا می‌توانید وارد سیستم شوید
 securesocial.signup.invalidPassword=حداقل {0} حرف وارد نمایید
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=دریافت کلمه عبور جدید

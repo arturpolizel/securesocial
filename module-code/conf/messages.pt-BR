@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Obrigado. Por favor, verifique seu email 
 securesocial.signup.invalidLink=O link que você entrou é inválido
 securesocial.signup.signUpDone=Obrigado por se cadastrar.  Você já pode entrar
 securesocial.signup.invalidPassword=Insira pelo menos {0} caracteres
+securesocial.signup.emailNotRegistered=Email não cadastrado. Revise suas informações e tente novamente.
 
 # Password reset
 securesocial.password.title=Reiniciar Senha

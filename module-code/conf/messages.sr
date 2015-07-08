@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Захваљујемо. Даље инст
 securesocial.signup.invalidLink=Адреса странице коју сте покушали да отворите није исправна
 securesocial.signup.signUpDone=Хвала што сте се регистровали. Сада се можете пријавити
 securesocial.signup.invalidPassword=Унесите најмање {0} знакова
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Ресетовање шифре

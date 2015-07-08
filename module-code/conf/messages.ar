@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=شكرا لتسجيلك. تم إرسال 
 securesocial.signup.invalidLink=العنوان الذي أدخلته غير صحيح
 securesocial.signup.signUpDone=شكرا لتسجيلك. يمكنك الآن تسجيل الدخول
 securesocial.signup.invalidPassword=قم بإدخال {0} حروف على الأقل
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=إعادة تعيين كلمة المرور

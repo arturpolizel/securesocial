@@ -211,6 +211,7 @@ trait BaseRegistration[U] extends MailTokenBasedOperations[U] {
 object BaseRegistration {
   val UserNameAlreadyTaken = "securesocial.signup.userNameAlreadyTaken"
   val ThankYouCheckEmail = "securesocial.signup.thankYouCheckEmail"
+  val EmailNotRegistered = "securesocial.signup.emailNotRegistered"
   val InvalidLink = "securesocial.signup.invalidLink"
   val SignUpDone = "securesocial.signup.signUpDone"
   val Password = "password"

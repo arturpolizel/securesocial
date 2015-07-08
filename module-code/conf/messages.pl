@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Dziêkujemy. Prosimy sprawdziæ e-mail dla 
 securesocial.signup.invalidLink=Link, który wybra³eœ jest nieprawid³owy
 securesocial.signup.signUpDone=Dziêkujemy za rejestracjê. Mo¿esz siê teraz zalogowaæ
 securesocial.signup.invalidPassword=Podaj przynajmniej {0} znaków
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Resetowanie has³a

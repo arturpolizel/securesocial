@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Gracias. Por favor revise su email para m
 securesocial.signup.invalidLink=El enlace que siguió no es válido
 securesocial.signup.signUpDone=Gracias por registrarse. Ahora puede iniciar Sesión
 securesocial.signup.invalidPassword=Ingrese al menos {0} caracteres
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Recuperar Contraseña

@@ -30,6 +30,7 @@ securesocial.signup.thankYouCheckEmail=Kiitos! Lisätiedot on lähetetty antamaa
 securesocial.signup.invalidLink=Klikkaamasi linkki ei ole käytössä
 securesocial.signup.signUpDone=Kiitos tunnuksen luonnista.  Voit nyt kirjautua järjestelmään
 securesocial.signup.invalidPassword=Syötä vähintään {0} merkkiä
+securesocial.signup.emailNotRegistered=Email not registered. Please review your email and try again.
 
 # Password reset
 securesocial.password.title=Nollaa salasana
