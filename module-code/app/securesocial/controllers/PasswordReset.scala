@@ -82,8 +82,7 @@ trait BasePasswordReset[U] extends MailTokenBasedOperations[U] {
                   }
                   Redirect(env.routes.startResetPasswordUrl).flashing(Success -> Messages(BaseRegistration.ThankYouCheckEmail))
                 case None =>
-                  env.mailer.sendUnkownEmailNotice(email)
-                  handleStartResult().flashing(Error -> Messages(BaseRegistration.EmailNotRegistered))
+                  Redirect(env.routes.startResetPasswordUrl).flashing(Error -> Messages(BaseRegistration.EmailNotRegistered))
               }
 
           }
